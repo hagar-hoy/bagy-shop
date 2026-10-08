@@ -5,8 +5,8 @@ function Home() {
   return (
     <main>
       <Hero />
-      <section>products</section>
-      <section>about us</section>
+      {/* <section>products</section>
+      <section>about us</section> */}
       <Footer />
     </main>
   );
